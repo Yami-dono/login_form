@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">login_form</string>
+    <string name="background">TODO</string>
+    <string name="login_button">Button</string>
+
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="text_login">Login</string>
+    <string name="sign_to_your_account">Sign to your account</string>
+    <string name="your_email">YOUR EMAIL</string>
+    <string name="huynhcaoanhtupro2002_gmail_com">huynhcaoanhtupro2002@gmail.com</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget password?</string>
+</resources>
